@@ -32,6 +32,7 @@ Open the Developer Console (F12 → Console).
 
 Copy-paste the following script and press Enter:
 
+
 (function() {
     'use strict';
     let adCheckTimeout;
